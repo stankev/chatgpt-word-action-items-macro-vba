@@ -7,7 +7,7 @@
 '                       a WORD document.
 ' Date:                 April 1, 2024
 ' Author:               Mark Stankevicius
-' GitHib Repository:    https://github.com/stankev/chatgpt-word-macro-vba
+' GitHib Repository:    https://github.com/stankev/chatgpt-word-action-items-macro-vba
 '
 '******************************************************************************************************
 Sub ActionItemGen()
