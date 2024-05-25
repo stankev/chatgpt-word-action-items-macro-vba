@@ -63,7 +63,7 @@ Sub ActionItemGen()
         Exit Sub
     End If
         
-    'Cleaning the mmeeting minutes text and make sure it's all one contunuous string of text without formatting ASCII characters
+    'Cleaning the meeting minutes text and make sure it's all one contunuous string of text without formatting ASCII characters
     chatPromptMinutes = CleanText(returnedText)
 
 
